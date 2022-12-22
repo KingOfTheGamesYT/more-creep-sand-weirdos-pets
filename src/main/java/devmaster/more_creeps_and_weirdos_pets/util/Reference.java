@@ -1,4 +1,4 @@
-package devmaster.morecreepsandweirdospets.util;
+package devmaster.more_creeps_and_weirdos_pets.util;
 
 public class Reference {
 
